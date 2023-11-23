@@ -1,5 +1,6 @@
 Testimonial Slider React Project
 
+Live Link-- https://testimonial-slider-j9s96h3n3-harshit-bajpais-projects.vercel.app/
 Welcome to the Testimonial Slider React project! This repository contains the source code for a testimonial slider built using React. This component allows you to showcase customer testimonials in an interactive and visually appealing way.
 
 Getting Started
